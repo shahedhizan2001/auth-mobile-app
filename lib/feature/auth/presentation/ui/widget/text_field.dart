@@ -1,4 +1,4 @@
-import 'package:auth/reactive_text_field.dart';
+import 'package:auth/feature/auth/presentation/ui/widget/reactive_text_field.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
